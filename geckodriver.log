@@ -1,0 +1,24 @@
+1527106297172	geckodriver	INFO	geckodriver 0.20.1
+1527106297184	geckodriver	INFO	Listening on 127.0.0.1:52270
+1527106385615	geckodriver	INFO	geckodriver 0.20.1
+1527106385621	geckodriver	INFO	Listening on 127.0.0.1:52278
+1527106606899	geckodriver	INFO	geckodriver 0.20.1
+1527106606908	geckodriver	INFO	Listening on 127.0.0.1:52362
+1527106607920	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/tl/w120x6c95tq6k90vzmnkcb880000gn/T/rust_mozprofile.dzZE7ZbkpRzl"
+Couldn't load XPCOM.
+1527106612983	geckodriver	INFO	geckodriver 0.20.1
+1527106612989	geckodriver	INFO	Listening on 127.0.0.1:52372
+1527106614014	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/tl/w120x6c95tq6k90vzmnkcb880000gn/T/rust_mozprofile.RKAqvbldQgO8"
+2018-05-23 15:16:55.645 plugin-container[54151:2504873] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-23 15:16:56.096 plugin-container[54151:2504873] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8723, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1527106616176	Marionette	INFO	Listening on port 52379
+1527106616207	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-23 15:16:56.648 plugin-container[54152:2504980] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-23 15:16:56.762 plugin-container[54152:2504980] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6fdb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-23 15:16:58.548 firefox-bin[54150:2504772] IMKInputSession [0x134a0f8b0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1292e7520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://static.parastorage.com/services/third-party/jquery/1.10.2/dist/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://static.parastorage.com/services/third-party/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
